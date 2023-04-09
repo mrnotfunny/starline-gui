@@ -272,7 +272,7 @@ function DarkraiX:Window(text,gamenme,logo,keybind)
 		MainFramePage.Name = text.."_Page"
 		MainFramePage.Parent = PageList
 		MainFramePage.Active = true
-		MainFramePage.BackgroundColor3 = Color3.fromRGB(139,0,139)
+		MainFramePage.BackgroundColor3 = Color3.fromRGB(225,225,225)
 		MainFramePage.BackgroundTransparency = 1.000
 		MainFramePage.BorderSizePixel = 0
 		MainFramePage.Size = UDim2.new(0, 490, 0, 365)
