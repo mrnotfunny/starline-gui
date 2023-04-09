@@ -1,3 +1,5 @@
+--this is DarkraiX gui credit to him i just edited it to my likeing
+
 
 local PlaceName = game:GetService("MarketplaceService"):GetProductInfo(game.PlaceId)
 
