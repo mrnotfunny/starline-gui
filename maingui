@@ -165,7 +165,7 @@ function DarkraiX:Window(text,gamenme,logo,keybind)
 	BindButton.Position = UDim2.new(0.847561002, 0, 0, 0)
 	BindButton.Size = UDim2.new(0, 100, 0, 27)
 	BindButton.Font = Enum.Font.GothamSemibold
-	BindButton.Text = "[leftControl = togel]"
+	BindButton.Text = "[leftCtrl = togel]"
 	BindButton.TextColor3 = Color3.fromRGB(147,112,219)
 	BindButton.TextSize = 13.000
 
